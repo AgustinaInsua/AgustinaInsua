@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agustina Insua</h1>
-<h3 align="center">I am in my third year of studies: Bachelor of Systems</h3>
+<h3 align="center">I am in my fourth year of studies: Bachelor of Systems</h3>
 
 - 👨‍💻 I'm currently learning **Angular**
 
